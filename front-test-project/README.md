@@ -1,3 +1,2 @@
-# Nuxt JS Crash course
+# Nuxt JS SPA
 
-Video is here: https://youtu.be/lm9olMCRCIc
